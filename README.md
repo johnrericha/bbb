@@ -30,4 +30,7 @@ pipenv install
 ```
 pipenv run flask run
 ```
-# bbb
+
+# Problém
+
+jde to spustit jenom jednou a zůstávají tam stejné obrázky
